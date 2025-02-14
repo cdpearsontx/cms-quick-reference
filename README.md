@@ -1,2 +1,2 @@
 # cms-quick-reference
-Quick reference guide for internal users
+*A quick reference guide for navigating and using our specific installation of Modern Campus CMS, tailored for internal users.*
