@@ -1,18 +1,20 @@
-<head>
-<style>
-.image-spacing {
-    margin-top: 10px;
-   
-}
-</style>
-</head>
-
-
 # OmniCMS Quick Reference Guide
 
 **This guide is for internal users of OmniCMS and is based on the most frequenly asked questions.**
 
 ---
+
+
+## Concept
+### Summary
+_In this section provide a brief summary of the conceptual information you plan to provide. This should allow the users to understand what they will find on this page._
+### Detailed Overview
+_In this section provide the details related to your conceptual information. This should allow the users to deep dive into understanding the concept. Use appropriate graphic or video files to explain the details._
+### Example
+_In this section provide an example of the conceptual information you plan to provide. A specific example often helps your users better understand a concept._
+
+
+
 
 **The Difference Between Sections and Folders**
 
@@ -39,11 +41,11 @@ To log in to OmniCMS, navigate to the webpage you want to edit and click the cop
 To access the Staging server:
 
  1. Click the **Content** drop-down menu in the top-right corner.
- 2. Selelect **Pages**
-<img src="(https://raw.githubusercontent.com/cdpearsontx/cms-quick-reference/refs/heads/main/images/omnicms-content-dropdown-new-page.jpg" class="image-spacing" alt="Screen shot of content menu with page highlighted">
-3. 
+ 2. Select **Pages**
 
-Select "Staging Server" from the list.
+![Screen shot of content menu with page highlighted](https://raw.githubusercontent.com/cdpearsontx/cms-quick-reference/refs/heads/main/images/omnicms-content-dropdown-new-page.jpg)
+ 
+3. Select "Staging Server" from the list.
 
 
 
@@ -54,9 +56,11 @@ Select "Staging Server" from the list.
 
 1. In the upper right portion of the screen, click "New".
 2. Select "New Section" in the drop down menu.
-   <img class="img-spacing" src="https://raw.githubusercontent.com/cdpearsontx/cms-quick-reference/refs/heads/main/images/omnicms-new-section.JPG" width="400" alt="new section screehshot">
+   
+<img src="https://raw.githubusercontent.com/cdpearsontx/cms-quick-reference/refs/heads/main/images/omnicms-new-section.JPG" width="400" alt="new section screehshot">
 
 3. Fill out the form fields. (**Note: filename must be lowercase**)
+
 <img class="img-spacing" src="https://raw.githubusercontent.com/cdpearsontx/cms-quick-reference/refs/heads/main/images/omnicms-new-section-form%3Dfields.jpg" width="500" alt="screenshot of new section fields">
 
 ---
