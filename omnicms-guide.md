@@ -73,6 +73,7 @@ To start creating a new page:
 1. Select the **Content** drop-down menu at the top of the screen.
 <img src="https://raw.githubusercontent.com/cdpearsontx/cms-quick-reference/refs/heads/main/images/omnicms-content-dropdown-new-page.jpg" width="500" alt="screenshot of content drop down with Pages highlighted">
 
+---
 
 **Rename a webpage:**
 
@@ -101,6 +102,8 @@ Select "Recycle" from the menu.
 Confirmation
 
 The page is now removed from the live server automatically.
+
+---
 
 **How to Recover a Deleted Page or File**
 
