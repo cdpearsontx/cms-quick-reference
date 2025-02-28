@@ -1,18 +1,21 @@
 # OmniCMS Quick Reference Guide
 
-**This guide is for internal users of OmniCMS and is based on the most frequenly asked questions.**
+## Introduction
+This quick guide helps users get started with **OmniCMS**, a content management system. It covers the basics of logging in, managing content, and troubleshooting common issues.
+
+### Audience
+This guide is intended for OmniCMS users, including administrators, content creators, and technical support staff.
+
 
 ---
 
+## Prerequisites
+Before you begin, make sure you have:
+- Access to the OmniCMS login page.
+- Your login credentials (username and password).
+- Familiarity with basic content management systems.
 
-## Concept
-### Summary
-_In this section provide a brief summary of the conceptual information you plan to provide. This should allow the users to understand what they will find on this page._
-### Detailed Overview
-_In this section provide the details related to your conceptual information. This should allow the users to deep dive into understanding the concept. Use appropriate graphic or video files to explain the details._
-### Example
-_In this section provide an example of the conceptual information you plan to provide. A specific example often helps your users better understand a concept._
-
+---
 
 
 
@@ -28,7 +31,7 @@ Visit the [OmniCMS Support Site](https://support.moderncampus.com/learn-omni-cms
 
 ---
 
-## Managing Pages
+## Managing Content
 
 **Log in to Edit a Page:**
 
@@ -46,7 +49,7 @@ To access the Staging server:
 ![Screen shot of content menu with page highlighted](https://raw.githubusercontent.com/cdpearsontx/cms-quick-reference/refs/heads/main/images/omnicms-content-dropdown-new-page.jpg)
  
 3. Select "Staging Server" from the list.
-
+![Screen shot of the server list](https://raw.githubusercontent.com/cdpearsontx/cms-quick-reference/refs/heads/main/images/omnicms-navigate-to-staging-server.jpg)
 
 
 
