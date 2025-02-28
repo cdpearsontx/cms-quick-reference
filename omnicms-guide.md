@@ -34,7 +34,7 @@ Visit the [OmniCMS Support Site](https://support.moderncampus.com/learn-omni-cms
 
 **Log in to Edit a Page:**
 
-To log in to OmniCMS, navigate to the webpage you want to edit and click the copyright (©) symbol in the footer.
+1. To log in to OmniCMS, navigate to the webpage you want to edit and click the copyright (©) symbol in the footer.
 
 ---
 
