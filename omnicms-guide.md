@@ -18,7 +18,6 @@ Before you begin, make sure you have:
 ---
 
 
-
 **The Difference Between Sections and Folders**
 
  "Folders" are for organizing (content), "sections" are subsites with a new left side navigation. 
@@ -49,6 +48,7 @@ To access the Staging server:
 ![Screen shot of content menu with page highlighted](https://raw.githubusercontent.com/cdpearsontx/cms-quick-reference/refs/heads/main/images/omnicms-content-dropdown-new-page.jpg)
  
 3. Select "Staging Server" from the list.
+4. 
 ![Screen shot of the server list](https://raw.githubusercontent.com/cdpearsontx/cms-quick-reference/refs/heads/main/images/omnicms-navigate-to-staging-server.jpg)
 
 
